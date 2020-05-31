@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Saqr Ecommerce</string>
+    <string name="product_details">Product Details</string>
+    <string name="availability">availability</string>
+    <string name="settings">Settings</string>
+</resources>

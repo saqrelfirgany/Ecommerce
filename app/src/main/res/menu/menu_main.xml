@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/actionHome"
+            android:icon="@drawable/ic_monetization_on_black_24dp"
+            android:orderInCategory="100"
+            android:title="Home"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/actionJeans"
+            android:icon="@drawable/ic_monetization_on_black_24dp"
+            android:orderInCategory="100"
+            android:title="Jeans"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/actionShorts"
+            android:icon="@drawable/ic_monetization_on_black_24dp"
+            android:orderInCategory="100"
+            android:title="Shorts"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/action_settings3"
+            android:icon="@drawable/ic_monetization_on_black_24dp"
+            android:orderInCategory="100"
+            android:title="@string/settings"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/action_settings4"
+            android:icon="@drawable/ic_monetization_on_black_24dp"
+            android:orderInCategory="100"
+            android:title="@string/settings"
+            app:showAsAction="never" />
+
+    </group>
+</menu>
